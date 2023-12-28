@@ -9,11 +9,11 @@ Catch me up on :-
 ><https://twitter.com/OmKumarAce>
 >
 >
->![Om-Kumar-Ace's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Om-Kumar-Ace&theme=dark&show_icons=true&hide_border=false&layout=compact)
+![Om-Kumar-Ace's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Om-Kumar-Ace&theme=dark&show_icons=true&hide_border=false&layout=compact)
 >
 >
->![Om-Kumar-Ace's Stats](https://github-readme-stats.vercel.app/api?username=Om-Kumar-Ace&theme=dark&show_icons=true&hide_border=false&count_private=false)
->![Om-Kumar-Ace's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Om-Kumar-Ace&theme=dark&hide_border=false)
+![Om-Kumar-Ace's Stats](https://github-readme-stats.vercel.app/api?username=Om-Kumar-Ace&theme=dark&show_icons=true&hide_border=false&count_private=false)
+![Om-Kumar-Ace's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Om-Kumar-Ace&theme=dark&hide_border=false)
 
 
 
