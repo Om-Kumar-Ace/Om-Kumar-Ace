@@ -15,6 +15,8 @@ Catch me up on :-
 ![Om-Kumar-Ace's Stats](https://github-readme-stats.vercel.app/api?username=Om-Kumar-Ace&theme=dark&show_icons=true&hide_border=false&count_private=false)
   
 ![Om-Kumar-Ace's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Om-Kumar-Ace&theme=dark&hide_border=false)
+
+[![Om's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Om-Kumar-Ace&bg_color=1c1c1c&color=ffae00&line=f9681a&point=f6d21e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </div>
 
 
